@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+}
+
+body, html {
+    height: 100%;
+    background-image: url("https://wallpaper.dog/large/11032562.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+.wrapper {
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.video_wrap {
+
+
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    width: 50%;
+    float: left;
+    height: 50%;
+    background-color: #c5d5cb;
+    border: 0.5px solid #858585;
+    font-family: 'Allerta Stencil';
+    font-size: 18px;
+    color: #AAF0D1;
+
+
+}
+
+.text_wrap {
+
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #525050;
+    color: #002715;
+
+
+}
